@@ -4,7 +4,7 @@ An experimental IT-support assistant built with FastAPI, LangGraph, LangChain, G
 
 The application includes a browser-based chat UI, a question-answering API, an admin-key-protected document-ingestion endpoint, and a local SQLite audit log.
 
-> **Data-source note:** The original project description referred to the [CMU Enron Email Dataset](https://www.cs.cmu.edu/~enron/). The application does not download or ingest that dataset automatically. At runtime, it uses documents supplied to its knowledge base. Confirm the rights and suitability of documents before ingesting or publishing them.
+> **Data-source note:**  The application does not download or ingest that dataset automatically. At runtime, it uses documents supplied to its knowledge base. Confirm the rights and suitability of documents before ingesting or publishing them.
 
 ## Contents
 
